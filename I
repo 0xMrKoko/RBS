@@ -1,2 +1,2 @@
-DeadM
-DeadR
+DeadM.exe
+DeadR.exe
